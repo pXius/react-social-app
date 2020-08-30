@@ -45,7 +45,7 @@ node_modules/
 
 # Ignore files related to API keys
 .env
-dist/
+dist
 
 # Ignore SASS config files
 .sass-cache
