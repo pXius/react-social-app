@@ -4,7 +4,7 @@ import { useImmerReducer } from "use-immer";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { CSSTransition } from "react-transition-group";
 import Axios from "axios";
-Axios.defaults.baseURL = process.env.BACKENDURL || "https://interact-backend.herokuapp.com";
+Axios.defaults.baseURL = process.env.BACKENDURL || "/*YOUR BACKEND HERE*/";
 
 // Contexts
 import StateContext from "./StateContext";
