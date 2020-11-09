@@ -1,7 +1,7 @@
 ﻿
 # Interact!
 ### A proof of concept social media app built with React.
-Interact, or even better, **Inter(React)**, was built with the sole purpose of experimenting, learning and playing with React features, with a specific focus on React 16.8+. It's an important distinction as the whole app was built using functional components, hooks, useEffect and finally useContext for it's app wide state management. That's right... no Redux needed.
+Interact, or even better, **Inter(React)**, was built with the sole purpose of experimenting, learning and playing with React features, with a specific focus on **modern** React. It's an important distinction as the whole app was built using functional components, hooks, useEffect and finally useContext for it's app wide state management. That's right... no Redux needed.
 
 
 
